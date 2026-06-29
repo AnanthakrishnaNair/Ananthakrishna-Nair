@@ -56,16 +56,6 @@ Transforming data into actionable insights through analytics, visualization, and
 
 ---
 
-# GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnanthakrishnaNair&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthakrishnaNair&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ---
 
 # GitHub Streak
