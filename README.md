@@ -1,1 +1,119 @@
-# Ananthakrishna-Nair
+<div align="center">
+
+# Hi, I'm Nandu 👋
+
+### Aspiring Data Analyst
+
+Transforming data into actionable insights through analytics, visualization, and machine learning.
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+</div>
+
+---
+
+# About Me
+
+- 📊 Aspiring Data Analyst passionate about solving business problems with data.
+- 📈 Skilled in Excel, Power BI, SQL, and Python for data analysis and visualization.
+- 🤖 Currently expanding my expertise in Machine Learning, Deep Learning, and NLP.
+- 📚 Learning by building real-world analytics projects.
+- 🎯 Seeking opportunities as a Data Analyst.
+
+---
+
+# Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 📈 Retail Customer Retention Analysis | Customer segmentation, churn analysis, business recommendations |
+| 💰 Financial Risk Analysis | Credit risk assessment using Python |
+| 📊 Interactive Power BI Dashboards | Business KPI dashboards |
+| 🐍 Python Data Analysis | EDA, visualization, feature engineering |
+| 🤖 Machine Learning Projects | Classification & regression models *(coming soon)* |
+
+---
+
+# Current Learning
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Data Engineering Fundamentals
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# Certifications
+
+- Python for Data Analysis
+- Financial Risk Analysis
+- *(More coming soon)*
+
+---
+
+# Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Turning data into decisions."
+
+</div>
