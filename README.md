@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nandu 👋
+# Hi, I'm Ananthakrishna 👋
 
 ### Aspiring Data Analyst
 
@@ -19,7 +19,7 @@ Transforming data into actionable insights through analytics, visualization, and
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
 
 </div>
 
@@ -88,23 +88,15 @@ Transforming data into actionable insights through analytics, visualization, and
 
 ---
 
-# Certifications
-
-- Python for Data Analysis
-- Financial Risk Analysis
-- *(More coming soon)*
-
----
-
 # Connect With Me
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/ananthakrishna-nair">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto: ananthakrishnanair50@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
